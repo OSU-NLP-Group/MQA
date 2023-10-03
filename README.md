@@ -1,4 +1,4 @@
-# MQA-MIE
-Using multimodal question answering for unified multimodal information extraction with large multimodal models
+# MQA
+Multimodal Question Answering for Unified Information Extraction
 
 Code will be available soon. Stay tuned.
