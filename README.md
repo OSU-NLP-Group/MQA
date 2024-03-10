@@ -120,3 +120,17 @@ bash scripts/blip2_flant5xl/ee_span.sh
 bash scripts/blip2_flant5xl/ee_et.sh
 ```
 
+
+
+
+
+If you find MQA useful for your work, please cite using the following BibTeX:
+
+```
+@article{sun2023multimodal,
+  title={Multimodal Question Answering for Unified Information Extraction},
+  author={Sun, Yuxuan and Zhang, Kai and Su, Yu},
+  journal={arXiv preprint arXiv:2310.03017},
+  year={2023}
+}
+```
