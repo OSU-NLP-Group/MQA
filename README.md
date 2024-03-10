@@ -122,7 +122,7 @@ bash scripts/blip2_flant5xl/ee_et.sh
 
 
 
-
+# 🥳Citation
 
 If you find MQA useful for your work, please cite using the following BibTeX:
 
