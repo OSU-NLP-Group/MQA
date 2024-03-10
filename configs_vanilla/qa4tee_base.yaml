@@ -1,0 +1,12 @@
+task_instructions:
+- 'Given an image and a sentence, classify the right word in the sentence that can infer the ({}) activity. All possible activities are listed below:'
+# Choose the right answer about a word in the sentence that can be inferred.
+max_tokens: 20
+example_format:
+- 'Sentence:{} 
+
+Words:'
+generation_times:
+- 1
+temperature:
+- 0

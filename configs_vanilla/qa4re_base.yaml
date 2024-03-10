@@ -1,0 +1,15 @@
+task_instructions:
+- 'Given the image and the text, select the relation between Entity 1 and Entity 2 that can be inferred from the given Sentence, The image may provide finegrained information about the entities. All possible relations are listed below:'
+max_tokens: 20
+example_format:
+- 'Entity 1: {}
+
+  Entity 2: {}
+
+  Relation:'
+generation_times:
+- 1
+sent_intro:
+- 'Sentence:'
+temperature:
+- 0

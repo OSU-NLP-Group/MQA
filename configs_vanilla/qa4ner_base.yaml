@@ -1,0 +1,11 @@
+task_instructions:
+- 'Please choose the words corresponding to the {} entity type that can be inferred from the given sentence.'
+max_tokens: 1
+generation_times:
+- 1
+example_format:
+- 'Sentence:{}
+
+entities:'
+temperature:
+- 0

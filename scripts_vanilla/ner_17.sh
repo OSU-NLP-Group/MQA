@@ -1,0 +1,7 @@
+bash scripts_vanilla/blip2_flant5xl/ner_et_17.sh
+bash scripts_vanilla/blip2_flant5xxl/ner_et_17.sh
+bash scripts_vanilla/instructblip_t5xl/ner_et_17.sh
+bash scripts_vanilla/instructblip_t5xxl/ner_et_17.sh
+bash scripts_vanilla/instructblip_vicuna7b/ner_et_17.sh
+bash scripts_vanilla/instructblip_vicuna13b/ner_et_17.sh
+

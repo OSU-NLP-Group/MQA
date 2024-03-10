@@ -1,0 +1,15 @@
+task_instructions:
+- 'Choose the right answer about the entity that can be inferred from the given Sentence.'
+max_tokens: 1
+generation_times:
+- 1
+example_format:
+- 'Sentence: {}
+
+Options:{}
+
+Which answer can be inferred from the given Sentence?
+
+Answer:'
+temperature:
+- 0

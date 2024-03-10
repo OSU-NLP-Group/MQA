@@ -1,0 +1,12 @@
+task_instructions:
+- 'Given an image and a sentence, classify which type about activity can be inferred.\n Sentence: This is a image attached to an news article.\n All possible types are listed below:'
+
+max_tokens: 20
+example_format:
+- Type:'
+generation_times:
+- 1
+sent_intro:
+- ''
+temperature:
+- 0

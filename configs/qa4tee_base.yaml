@@ -1,0 +1,15 @@
+task_instructions:
+- 'Identify the choice that can be deduced from the provided sentence and image.'
+max_tokens: 1
+generation_times:
+- 1
+example_format:
+- 'Sentence: {}
+
+Answer candidates:{}
+
+Which answer can be inferred?
+
+Answer:'
+temperature:
+- 0

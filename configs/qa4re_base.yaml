@@ -1,0 +1,15 @@
+task_instructions:
+- 'In light of the provided Sentence, determine which option is the most feasible inference. The Image may present detailed information about the entities.'
+max_tokens: 1
+generation_times:
+- 1
+example_format:
+- 'Sentence: {}
+
+Options:{}
+
+Which option is the most possible inference?
+
+Option:'
+temperature:
+- 0

@@ -1,0 +1,16 @@
+task_instructions:
+- 'Determine which choice can be inferred from the image.'
+max_tokens: 1
+generation_times:
+- 1
+example_format:
+- 'Sentence: This is a image attached to an news article.
+
+Options: 
+{}
+
+Which answer can be inferred from the image?
+
+Answer:'
+temperature:
+- 0
